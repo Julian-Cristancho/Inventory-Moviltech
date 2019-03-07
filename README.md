@@ -50,4 +50,8 @@ Julian Santiago Cristancho Valencia
 estudiante de ADSI (Analisis y desarrollo de sistemas de informacion).
 
 
+<<<<<<< HEAD
 *Gracias por usar nuestro software*
+=======
+*Gracias por usar nuestro software*
+>>>>>>> testing
