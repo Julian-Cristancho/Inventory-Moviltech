@@ -1,6 +1,8 @@
-![Logo](https://drive.google.com/file/d/1vkU67v3_1yFS8fOMKs2fNHgTOmz499hE/view?usp=sharing)
-
 # MovilTech
+ 
+ ## logo
+![](https://lh5.googleusercontent.com/WES4UBY95RCaZmg_2-TpfWTnJdBTXyydllbgjXyctenm2q4uReiS8wN3U7CdR6NlS-Z9uUImWf6nx_0D9Vv80VuhsJ6TIbtcbDjbz6Q7DQgig_U7Uy4hfsbGB1IHzGTPvjG99eA7O1Rp1raCGA)
+
 
 Sistema de inventarios para los locales de dispositivos moviles con sus respectivos precios
 
